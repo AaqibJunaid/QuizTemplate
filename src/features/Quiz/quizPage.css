@@ -1,0 +1,94 @@
+/*
+mainPage will define how big the webpage will be
+and what the background color is
+*/
+
+#mainPage {
+}
+
+/*
+mainPageBody specifies the alignment of the
+HTML elements on the page to be centred.
+*/
+
+#mainPageBody {
+}
+
+/*
+contentPanel will centeralise the items in the panel 
+itself. In addition, to some styling for 
+the panel such as the box shadow and color
+*/
+
+#contentPanel {
+}
+
+/*
+quizTitle outlines how big the title will be
+and for it to be centeralised
+*/
+
+#quizTitle {
+}
+
+/*
+questionBox will house all the elements that will be 
+displayed within the contentPanel and will align 
+all the items to the centre
+*/
+
+.questionBox {
+}
+
+/*
+question will align the question itself tp the 
+centre and will define the size of it. In addition
+to giving it visual properties such as a shadow 
+border and colour
+*/
+
+.question {
+}
+
+/*
+buttons will house all the answers and centeralise
+them
+*/
+#buttons {
+}
+
+/*
+questionButton will will align all the answers to 
+the centre of the contentPanel and will put each 
+answer one after another (in a column)
+*/
+
+.questionButton {
+}
+
+/*
+navButtonActive will switch the colour of the
+answer when it is clicked to indicate it is 
+highlighted
+*/
+#navButtonActive {
+}
+
+/*
+submit will locate the submit button in the 
+centre and give it design characteristics such
+as box shadow and colour
+*/
+
+#submit {
+}
+
+/*
+results will define the look of the results page and
+align all the items to the centre and change its 
+apperance to have a shhadow around it and change the 
+areas coloour
+*/
+
+#results {
+}

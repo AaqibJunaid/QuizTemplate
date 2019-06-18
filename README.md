@@ -1,2 +1,0 @@
-# QuizTemplate
-Created with CodeSandbox
